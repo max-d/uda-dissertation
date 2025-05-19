@@ -10,7 +10,7 @@ The study explores whether style-transfer networks can reduce the domain gap bet
 | Path / File | Purpose |
 |-------------|---------|
 | `notebooks/` | Jupyter Notebooks that document each project stage (data inspection, baseline U-Net training, CycleGAN adaptation, fine-tuning, evaluation, and ablation studies). |
-| `data/dataset_AB/` | **Custom synthetic set** produced by transferring Dataset A into the visual style of Dataset B via CycleGAN. |
+| `data/` | **Custom synthetic set** produced by transferring Dataset A into the visual style of Dataset B via CycleGAN. |
 | `models/` | Checkpoints for U-Net, CycleGAN, DAFormer, and comparison baselines. |
 
 ## Quick Start
