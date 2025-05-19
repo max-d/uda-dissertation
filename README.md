@@ -1,5 +1,6 @@
 # MSc Dissertation Artifacts – GAN-Based Domain Adaptation for Crop Segmentation  
 *University of Essex, Department of Computing*
+
 *Max Dudkin*
 
 This repository has been created to archive every artifact generated during the MSc dissertation **“GAN-Based Domain Adaptation for Crop Segmentation in Aerial Imagery.”**  
