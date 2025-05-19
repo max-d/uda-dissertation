@@ -13,8 +13,8 @@ The study explores whether style-transfer networks can reduce the domain gap bet
 
 ## Quick Start
 1. Clone the repository and create a Python 3.11 environment.  
-2. Install required libraries from `environment.yml` or `requirements.txt`.  
-3. Launch JupyterLab and run the notebooks in ascending order to reproduce the pipeline.
+2. Upload noteooks to Google Collab or another Jupiter Notebook environment.
+3. Run notebooks in enumerated order
 
 ## Licence & Data Use
 All code is released under the MIT Licence.  
